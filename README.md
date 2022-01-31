@@ -5,7 +5,7 @@ Here are some of the recent projects I've been working on.
 ## Actions
 
 - [secrets-sync](https://github.com/xt0rted/secrets-sync) - A GitHub Action to sync secrets across multiple repositories.
-- [secrets-sync-template](https://github.com/xt0rted/secrets-sync-template) - Template to quickly get setup using [secrets-sync](https://github.com/xt0rted/secrets-sync).
+- [secrets-sync-template](https://github.com/xt0rted/secrets-sync-template) - Template to quickly get setup using `secrets-sync`.
 
 ## Tailwind CSS
 
