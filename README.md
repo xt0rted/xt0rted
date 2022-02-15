@@ -4,6 +4,7 @@ Here are some of the recent projects I've been working on.
 
 ## Actions
 
+- [actions-toolkit](https://github.com/xt0rted/actions-toolkit) - Helper functions, scripts, and Typescript types for working with GitHub Actions.
 - [secrets-sync](https://github.com/xt0rted/secrets-sync) - A GitHub Action to sync secrets across multiple repositories.
 - [secrets-sync-template](https://github.com/xt0rted/secrets-sync-template) - Template to quickly get setup using `secrets-sync`.
 
