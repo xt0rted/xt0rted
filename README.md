@@ -3,6 +3,7 @@
 Here are some of the recent projects I've been working on.
 
 ## .NET
+- [dotnet-rimraf](https://github.com/xt0rted/dotnet-rimraf) - Deep deletion command for .NET (like rm -rf).
 - [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) - An `npm run` inspired dotnet cli tool.
 - [heroicons-tag-helper](https://github.com/xt0rted/heroicons-tag-helper) - ASP.NET tag helper for adding Heroicons to your razor views.
 - [tailwindcss-tag-helpers](https://github.com/xt0rted/tailwindcss-tag-helpers) - ASP.NET tag helpers to make working with Tailwind CSS and Tailwind UI easier.
