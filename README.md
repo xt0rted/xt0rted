@@ -15,4 +15,9 @@ Here are some of the recent projects I've been working on.
 - [secrets-sync](https://github.com/xt0rted/secrets-sync) - Sync secrets across multiple repositories.
 - [secrets-sync-template](https://github.com/xt0rted/secrets-sync-template) - Template to quickly get setup using `secrets-sync`.
 
+## GitHub Actions Workflows
+
+- [Update dotnet local tools](https://github.com/xt0rted/dotnet-tool-update-test) - Example two part workflow showing how you can keep dotnet local tools up to date.
+- [Auto-merge Dependabot PRs](https://gist.github.com/xt0rted/46475099dc0a70ba63e16e3177407872) - Example workflow that can be used to auto-merge Dependabot PRs.
+
 Check out my [OnlyPans :pizza:](https://onlypans.pizza)
