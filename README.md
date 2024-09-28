@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some of the recent projects I've been working on.
+Hate how Copilot is showing up everywhere on the site? Hide it all with [nopilot](https://github.com/xt0rted/github-nopilot).
 
 ## .NET
 - [dotnet-rimraf](https://github.com/xt0rted/dotnet-rimraf) - Deep deletion command for .NET (like rm -rf).
